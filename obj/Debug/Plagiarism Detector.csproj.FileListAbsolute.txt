@@ -1,0 +1,1 @@
+G:\NUST\3rd semester\Data Structures & OOP\Project\Plagiarism Detector\Plagiarism Detector\bin\Debug\Plagiarism Detector.exe.config
